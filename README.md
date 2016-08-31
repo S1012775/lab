@@ -1,7 +1,7 @@
 # lab
 
 1. 電影網 <br>
- https://web-annyke.c9users.io/EasyMVC/EasyMVC/Home/index
+https://web-annyke.c9users.io/EasyMVC/EasyMVC/Home/index
 
 2.簡易銀行系統 <br>
 https://payment-annyke.c9users.io/bankSystem/Home/index
@@ -11,6 +11,8 @@ https://booking-annyke.c9users.io/EasyMVC/Home/select
 
 4.API<br>
 https://payment-annyke.c9users.io/Api/api.php
+
+
 
 新增帳號
 
